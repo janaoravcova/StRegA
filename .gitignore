@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 *.ptrh
 *.swp
+
+# pycharm project
+.idea
